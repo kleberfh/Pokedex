@@ -33,7 +33,6 @@
 							}
 						$('.pokesimg').html("<img src='" + k + i + data[i].name + ".png" + "' style='" + "width:250px;height:250px;" + "'/>");
 						$('.pokesinf').html('<h2> ID:'+ i +'<h3> Name:' + data[i].name + '<h4> Type:' + data[i].type);
-						// console.log(i);
 						});
 						$('.btn-primary').click(function(){
 							if(i == i){
@@ -48,7 +47,6 @@
 							}
 						$('.pokesimg').html("<img src='" + k + i + data[i].name + ".png" + "' style='" + "width:250px;height:250px;" + "'/>");
 						$('.pokesinf').html('<h2> ID:'+ i +'<h3> Name:' + data[i].name + '<h4> Type:' + data[i].type);
-						// console.log(i);
 						});
 					});
 				});
