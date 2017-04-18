@@ -1,0 +1,26 @@
+
+#dx {
+	background-image: url('https://image.freepik.com/free-vector/red-geometrical-background_1085-125.jpg');
+	/*background-color: #cf3434;*/
+	border-radius: 40px;
+	margin: auto;
+}
+.screen {
+	background-image: url('http://orig08.deviantart.net/1688/f/2013/098/e/7/pokemon_x_y_battle_scene_by_jenske05-d5ynr9c.png');
+	background-repeat: no-repeat;
+	background-size: 350px 350px;
+	/*background-color: #e8e16d;*/
+	border-radius: 5px;
+}
+.inf {
+	background-color: #e8e16d;
+	border-radius: 5px;
+}
+
+.pager, .pokes, .pokesimg, .pokesinf, .main {
+    padding-left: 0;
+    margin: 20px 0;
+    text-align: center;
+    list-style: none;
+    font-family: "Lucida Console", Monaco, monospace;
+}

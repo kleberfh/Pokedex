@@ -1,0 +1,21 @@
+
+#dx {
+	background-color: #cf3434;
+	border-radius: 40px;
+	margin: auto;
+}
+.screen {
+	background-color: #e8e16d;
+	border-radius: 5px;
+}
+.inf {
+	background-color: #e8e16d;
+	border-radius: 5px;
+}
+
+.pager, .pokes, .pokesimg, .pokesinf, .main {
+    padding-left: 0;
+    margin: 20px 0;
+    text-align: center;
+    list-style: none;
+}
